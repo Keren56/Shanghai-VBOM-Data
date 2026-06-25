@@ -32,4 +32,4 @@ If you use this dataset, please cite the corresponding paper.
 
 ## License
 
-This dataset is released for academic research purposes. Please see the LICENSE file for details.
+This dataset is released for academic research purposes. Please see the 'LICENSE' file for details.
